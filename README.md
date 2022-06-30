@@ -102,8 +102,9 @@ This project is for study purposes too. All kinds of contributions are very welc
 
 By Rodrigo Santos 👋🏽 Find me:
 
+
 [![Linkedin Badge](https://img.shields.io/badge/-DavidFelipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lipedev/)](https://www.linkedin.com/in/lipedev/)
-|
+
 [![Gmail Badge](https://img.shields.io/badge/-davidf.30.10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davidf.30.10@gmail.com)](mailto:davidf.30.10@gmail.com)
 
 
