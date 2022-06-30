@@ -1,6 +1,6 @@
 <h2 align="center">
   <div>
-    <img alt="Logo" title="#logo" src=".github/assets/Logo.svg" width="400"/>
+    <img alt="Logo" title="#logo" src=".github/assets/Logo.png" width="400"/>
   <div>
 </h2>
 
