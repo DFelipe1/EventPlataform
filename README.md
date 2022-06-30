@@ -1,6 +1,6 @@
 <h2 align="center">
   <div>
-    <img alt="Logo" title="#logo" src=".github/assets/logo.svg" width="400"/>
+    <img alt="Logo" title="#logo" src=".github/assets/Logo.svg" width="400"/>
   <div>
 </h2>
 
@@ -11,19 +11,19 @@
 <div align="center">
 
   <a href="">
-    <img src="https://img.shields.io/github/languages/count/RodrigoSaantos/event-platform.svg?color=00B37E" alt="languages" >
+    <img src="https://img.shields.io/github/languages/count/DFelipe1/EventPlataform.svg?color=00B37E" alt="languages" >
   </a>
 
   <a href="">
-    <img src="https://img.shields.io/github/languages/top/RodrigoSaantos/event-platform.svg?color=00B37E" alt="languagesTop" >
+    <img src="https://img.shields.io/github/languages/top/DFelipe1/EventPlataform.svg?color=00B37E" alt="languagesTop" >
   </a>
 
   <a href="">
-    <img src="https://img.shields.io/github/repo-size/RodrigoSaantos/event-platform.svg?color=00B37E" alt="repo-size" >
+    <img src="https://img.shields.io/github/repo-size/DFelipe1/EventPlataform.svg?color=00B37E" alt="repo-size" >
   </a>
 
   <a href="">
-    <img src="https://img.shields.io/github/last-commit/RodrigoSaantos/event-platform.svg?color=00B37E" alt="last-commit" >
+    <img src="https://img.shields.io/github/last-commit/DFelipe1/EventPlataform.svg?color=00B37E" alt="last-commit" >
   </a>
 
 </div>
@@ -40,11 +40,7 @@
 </p>
 
 <h1 align="center">
-    <img width="600" style="border-radius: 10px" height="auto" alt="Home" title="Home" src=".github/assets/home.png" />
-  <div style="display: flex; flex-direction: row;">
-    <img width="400" style="border-radius: 10px" height="auto" alt="Class-01" title="Class-01" src=".github/assets/class-01.png" />
-    <img width="400" style="border-radius: 10px" height="auto" alt="Class-02" title="Class-02" src=".github/assets/class-02.png" />
-  <div>
+    <img width="600" style="border-radius: 10px" height="auto" alt="Home" title="capa do projeto" src=".github/assets/Capa.png" />
 </h1>
 
 <h4 align="center">
@@ -61,7 +57,7 @@ The following tools were used in the construction of the project:
 
 - [ReactJS](https://reactjs.org)
 - [NodeJS](https://nodejs.org/en/)
-- [Yarn](https://yarnpkg.com) or Npm
+- [Yarn](https://yarnpkg.com) or [Npm](https://www.npmjs.com)
 - [VSCode](https://code.visualstudio.com)
 - [Git Bash](https://gitforwindows.org/)
 - [Graphql](https://graphql.org/)
@@ -74,7 +70,7 @@ Required! Install git, node and yarn (or npm).
 
 ```bash
 # Clone Repository
-$ git clone https://github.com/RodrigoSaantos/event-platform.git
+$ git clone https://github.com/DFelipe1/EventPlataform.git
 # Go to server folder
 $ cd event-platform
 # Install Dependencies
@@ -102,14 +98,12 @@ This project is for study purposes too. All kinds of contributions are very welc
 
 <h2 id="author"> 💻 Author </h2>
 
-<img style="border-radius: 50%;" src="https://github.com/RodrigoSaantos.png" width="100px;" alt="Rodrigo Santos"/>
+<img style="border-radius: 50%;" src="https://github.com/DFelipe1.png" width="100px;" alt="Rodrigo Santos"/>
 
 By Rodrigo Santos 👋🏽 Find me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-RodrigoSantos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-dos-santos-silva-637225156/)](https://www.linkedin.com/in/rodrigo-dos-santos-silva-637225156/)
+[![Linkedin Badge](https://img.shields.io/badge/-DavidFelipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lipedev/)](https://www.linkedin.com/in/lipedev/)
 |
-[![Gmail Badge](https://img.shields.io/badge/-contato.rodrigosaantos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.rodrigosaantos@gmail.com)](mailto:contato.rodrigosaantos@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-davidf.30.10@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davidf.30.10@gmail.com)](mailto:davidf.30.10@gmail.com)
 
-<h2 id="license"> 📝 License </h2>
 
-This project is under the MIT license.
