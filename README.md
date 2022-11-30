@@ -100,7 +100,7 @@ This project is for study purposes too. All kinds of contributions are very welc
 
 <img style="border-radius: 50%;" src="https://github.com/DFelipe1.png" width="100px;" alt="Rodrigo Santos"/>
 
-By Rodrigo Santos 👋🏽 Find me:
+By David Felipe 👋🏽 Find me:
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-DavidFelipe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lipedev/)](https://www.linkedin.com/in/lipedev/)
